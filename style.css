@@ -40,6 +40,7 @@ body{
     font-size: 1.4rem;
     font-weight: 700;
     margin-bottom: 13px;
+    color:hsl(218, 44%, 22%);
 }
 #text-content p{
     font-weight: 400;
